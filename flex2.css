@@ -1,0 +1,36 @@
+.st {
+  background-color: #ffffba;
+  width: 750px;
+  height: 675px;
+  display: flex;
+  justify-content: center;
+}
+.nd {
+  margin-top: 35px;
+  width: 470px;
+  height: 510px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid #f2f2f2;
+  border-radius: 100px;
+}
+.th {
+  margin-left: 30px;
+  display: flex;
+}
+
+img {
+  margin-right: 30px;
+  margin-top: 20px;
+  width: 80px;
+  height: 80px;
+}
+hr {
+  border: 0.5px solid rgba(0, 0, 0, 0.04);
+  margin: 10px;
+}
+p {
+  color: #808080c2;
+}

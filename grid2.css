@@ -1,0 +1,30 @@
+.pt {
+  width: 940px;
+  height: 660px;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+}
+.fch {
+  background-color: #efefef;
+  margin: 3px;
+  padding: 10px;
+}
+.s,
+.t,
+.f {
+  display: grid;
+}
+.s {
+  grid-template-columns: auto auto;
+}
+.t {
+  grid-template-rows: auto auto;
+}
+.f {
+  grid-template-columns: auto auto;
+}
+.sch {
+  background-color: #cfcfcf;
+  margin: 2px;
+  padding: 5px;
+}
